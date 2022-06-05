@@ -20,7 +20,7 @@ public class FollowCam : MonoBehaviour
 	{
 		/*
 		 * [Note: Method]
-		 * Mathf.LerpAngle(float a, float b, float t)
+		 * Mathf.LerpAngle(float a, float b, float t): float
 		 * 수의 선형 보간(수가 시간을 가지고 변경되는 것)을 처리합니다.
 		 * 
 		 * <float a>
